@@ -1,0 +1,414 @@
+
+	bigw mc;
+	id 1
+	bigk 1
+;;
+	bigw arch-scene;
+	id 2
+	bigk 1
+;;
+	bigw arch-film;
+	id 3
+	bigk 1
+;;
+	bigw mc-temper;
+	id 4
+	bigk 1
+;;
+	bigw mc-intro;
+	id 5
+	bigk 1
+;;
+	bigw mc-relationship;
+	id 6
+	bigk 1
+;;
+	bigw pump-of-action;
+	id 7
+	bigk 1
+;;
+	bigw antagonist-mc;
+	id 8
+	bigk 1
+;;
+	bigw hard-conditions;
+	id 9
+	bigk 1
+;;
+	bigw countdown;
+	id 10
+	bigk 1
+;;
+	bigw life-saving;
+	id 11
+	bigk 1
+;;
+	bigw step-to-the-side;
+	id 12
+	bigk 1
+;;
+	bigw create-crisis;
+	id 13
+	bigk 1
+;;
+	bigw rebel;
+	id 14
+	bigk 1
+;;
+	bigw mc3-intro;
+	id 15
+	bigk 1
+;;
+	bigw new-action-vector;
+	id 16
+	bigk 1
+;;
+	bigw peak-of-scene;
+	id 17
+	bigk 1
+;;
+	bigw jewels;
+	id 18
+	bigk 1
+;;
+	bigw critical-moment;
+	id 19
+	bigk 1
+;;
+	bigw new-story-start;
+	id 20
+	bigk 1
+;;
+	bigw imperfection;
+	id 21
+	bigk 1
+;;
+	bigw mc-secret;
+	id 22
+	bigk 1
+;;
+	bigw mc-secret-fear;
+	id 23
+	bigk 1
+;;
+	bigw to-be-foolish;
+	id 24
+	bigk 1
+;;
+	bigw human-nature;
+	id 25
+	bigk 1
+;;
+	bigw bad-habit;
+	id 26
+	bigk 1
+;;
+	bigw activity-switching;
+	id 27
+	bigk 1
+;;
+	bigw mc-problems;
+	id 28
+	bigk 1
+;;
+	bigw solving-the-problems;
+	id 29
+	bigk 1
+;;
+	bigw love;
+	id 30
+	bigk 1
+;;
+	bigw search;
+	id 31
+	bigk 1
+;;
+	bigw life;
+	id 32
+	bigk 1
+;;
+	bigw pre-intro;
+	id 33
+	bigk 1
+;;
+	bigw mc-weakness;
+	id 34
+	bigk 1
+;;
+	bigw character-exposure;
+	id 35
+	bigk 1
+;;
+	bigw fast-intro;
+	id 36
+	bigk 1
+;;
+	bigw cognitive-dissonance;
+	id 37
+	bigk 1
+;;
+	bigw talents;
+	id 38
+	bigk 1
+;;
+	bigw no-talents;
+	id 39
+	bigk 1
+;;
+	bigw skills;
+	id 40
+	bigk 1
+;;
+	bigw weakness;
+	id 41
+	bigk 1
+;;
+	bigw occupation;
+	id 42
+	bigk 1
+;;
+	bigw cook;
+	id 43
+	bigk 1
+;;
+	bigw super-skills;
+	id 44
+	bigk 1
+;;
+	bigw professional;
+	id 45
+	bigk 1
+;;
+	bigw killer;
+	id 46
+	bigk 1
+;;
+	bigw ppr;
+	id 47
+	bigk 1
+;;
+	bigw veiled-life;
+	id 48
+	bigk 1
+;;
+	bigw birth-secret;
+	id 49
+	bigk 1
+;;
+	bigw mafia;
+	id 50
+	bigk 1
+;;
+	bigw local-victory;
+	id 51
+	bigk 1
+;;
+	bigw local-defeat;
+	id 52
+	bigk 1
+;;
+	bigw poverty;
+	id 53
+	bigk 1
+;;
+	bigw dialog;
+	id 54
+	bigk 1
+;;
+	bigw frighten;
+	id 55
+	bigk 1
+;;
+	bigw strenth;
+	id 56
+	bigk 1
+;;
+	bigw bandit;
+	id 57
+	bigk 1
+;;
+	bigw conflict;
+	id 58
+	bigk 1
+;;
+	bigw feelings;
+	id 59
+	bigk 1
+;;
+	bigw business-soul;
+	id 60
+	bigk 1
+;;
+	bigw plot-point;
+	id 61
+	bigk 1
+;;
+	bigw critical-choice;
+	id 62
+	bigk 1
+;;
+	bigw cascade;
+	id 63
+	bigk 1
+;;
+	bigw band-creation;
+	id 64
+	bigk 1
+;;
+	bigw involving;
+	id 65
+	bigk 1
+;;
+	bigw full-support;
+	id 66
+	bigk 1
+;;
+	bigw dependence;
+	id 67
+	bigk 1
+;;
+	bigw money;
+	id 68
+	bigk 1
+;;
+	bigw mc-type;
+	id 69
+	bigk 1
+;;
+	bigw authority;
+	id 70
+	bigk 1
+;;
+	bigw teaching-the-life;
+	id 71
+	bigk 1
+;;
+	bigw life-deep-understanding;
+	id 72
+	bigk 1
+;;
+	bigw humanity;
+	id 73
+	bigk 1
+;;
+	bigw kind;
+	id 74
+	bigk 1
+;;
+	bigw talking-with-animals;
+	id 75
+	bigk 1
+;;
+	bigw mc-state;
+	id 76
+	bigk 1
+;;
+	bigw guilt;
+	id 77
+	bigk 1
+;;
+	bigw humiliation;
+	id 78
+	bigk 1
+;;
+	bigw not-deserved;
+	id 79
+	bigk 1
+;;
+	bigw not-insulted;
+	id 80
+	bigk 1
+;;
+	bigw dramatic-situation;
+	id 81
+	bigk 1
+;;
+	bigw bailed-up;
+	id 82
+	bigk 1
+;;
+	bigw mc-against-principles;
+	id 83
+	bigk 1
+;;
+	bigw to-hurt;
+	id 84
+	bigk 1
+;;
+	bigw loser;
+	id 85
+	bigk 1
+;;
+	bigw lucky-loser;
+	id 86
+	bigk 1
+;;
+	bigw mc-goal;
+	id 87
+	bigk 1
+;;
+	bigw ultimate-goal;
+	id 88
+	bigk 1
+;;
+	bigw inaccessibility;
+	id 89
+	bigk 1
+;;
+	bigw micro-chance;
+	id 90
+	bigk 1
+;;
+	bigw happy-ticket;
+	id 91
+	bigk 1
+;;
+	bigw contrast;
+	id 92
+	bigk 1
+;;
+	bigw good-cop-bad-cop;
+	id 93
+	bigk 1
+;;
+	bigw mc2-more-desperate;
+	id 94
+	bigk 1
+;;
+	bigw solving-problems;
+	id 95
+	bigk 1
+;;
+	bigw convincing-people;
+	id 96
+	bigk 1
+;;
+	bigw bifurcation;
+	id 97
+	bigk 1
+;;
+	bigw trust-arises;
+	id 98
+	bigk 1
+;;
+	bigw start-of-growth;
+	id 99
+	bigk 1
+;;
+	bigw physical;
+	id 100
+	bigk 1
+;;
+	bigw training;
+	id 101
+	bigk 1
+;;
+	bigw psyhology-crisis;
+	id 102
+	bigk 1
+;;
+	bigw good-bandit-bad-bandit;
+	id 103
+	bigk 1
+;;
+
