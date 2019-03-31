@@ -1,0 +1,11 @@
+﻿	w full-support;
+	wn 1
+	plevel 0
+	k 1
+;;
+	w conflict;
+	wn 1
+	plevel 0
+	k 1
+;;
+

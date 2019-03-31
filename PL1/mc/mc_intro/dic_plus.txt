@@ -1,0 +1,31 @@
+﻿	w pre-intro;
+	wn 1
+	plevel 0
+	k 1
+;;
+	w mc-weakness;
+	wn 1
+	plevel 0
+	k 1
+;;
+	w mc-secret;
+	wn 1
+	plevel 0
+	k 1
+;;
+	w character-exposure;
+	wn 1
+	plevel 0
+	k 1
+;;
+	w fast-intro;
+	wn 1
+	plevel 0
+	k 1
+;;
+	w cognitive-dissonance;
+	wn 1
+	plevel 0
+	k 1
+;;
+

@@ -1,0 +1,11 @@
+﻿	w strenth;
+	wn 1
+	plevel 0
+	k 1
+;;
+	w bandit;
+	wn 2
+	plevel 0
+	k 1
+;;
+

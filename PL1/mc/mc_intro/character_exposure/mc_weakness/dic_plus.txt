@@ -1,0 +1,8 @@
+﻿	w dependence;
+	wn 1
+	plevel 0
+	k 1
+;;
+
+
+

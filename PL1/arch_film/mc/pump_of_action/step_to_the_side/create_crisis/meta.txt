@@ -1,0 +1,9 @@
+	wa create-crisis;
+	fields_m 10 $1= $32; $2= $32; $3= $32; $4= $32; $5= $64; $6= $8; $7= $8; $8= $64; $9= $2; $10= $1;
+	fields 10 $1= $00011; $2= $00010; $3= $00001; $4= $00001; $5= $000001; $6= $000; $7= $000; $8= $000000; $9= $1; $10= $00000;
+	+field=000001
+	+field=10|00011|00010|00001|00001|000001|000|0
+	cur_path ONTO-FILM-SCH2\arch_film\mc\pump_of_action\step_to_the_side\create_crisis\
+	cur_level 6
+	i_cur 1
+;;

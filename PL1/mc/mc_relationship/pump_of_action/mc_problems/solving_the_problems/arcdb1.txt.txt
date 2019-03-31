@@ -1,0 +1,48 @@
++ ======================================================= +
+
++=love
++field0 NODE1_OPCODE=00001
++field1 NODE2_OPCODE=00011
++field2 NODE3_OPCODE=00001
++field3 NODE4_OPCODE=00001
++field4 NODE5_OPCODE=000001
++field5 NODE6_OPCODE=001
++formats Film
++resources ALU
++op1 name=result1
++summary love Node
++stage_3_0
+result1 = result1;
+
++ ======================================================= +
+
++=search
++field0 NODE1_OPCODE=00001
++field1 NODE2_OPCODE=00011
++field2 NODE3_OPCODE=00001
++field3 NODE4_OPCODE=00001
++field4 NODE5_OPCODE=000001
++field5 NODE6_OPCODE=010
++formats Film
++resources ALU
++op1 name=result1
++summary search Node
++stage_3_0
+result1 = result1;
+
++ ======================================================= +
+
++=life
++field0 NODE1_OPCODE=00001
++field1 NODE2_OPCODE=00011
++field2 NODE3_OPCODE=00001
++field3 NODE4_OPCODE=00001
++field4 NODE5_OPCODE=000001
++field5 NODE6_OPCODE=011
++formats Film
++resources ALU
++op1 name=result1
++summary life Node
++stage_3_0
+result1 = result1;
+

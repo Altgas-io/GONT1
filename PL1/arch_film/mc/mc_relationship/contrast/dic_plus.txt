@@ -1,0 +1,7 @@
+﻿	w good-bandit-bad-bandit;
+	wn 1
+	plevel 0
+	k 1
+;;
+
+

@@ -1,0 +1,6 @@
+﻿	w to-hurt;
+	wn 1
+	plevel 0
+	k 1
+;;
+

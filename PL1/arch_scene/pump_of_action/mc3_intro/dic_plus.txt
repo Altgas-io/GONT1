@@ -1,0 +1,10 @@
+﻿	w new-action-vector;
+	wn 1
+	plevel 0
+	k 1
+;;
+	w peak-of-scene;
+	wn 1
+	plevel 0
+	k 1
+;; 

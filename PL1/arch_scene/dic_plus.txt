@@ -1,0 +1,7 @@
+﻿	w pump-of-action;
+	wn 1
+	plevel 0
+	k 1
+;;
+
+

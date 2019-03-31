@@ -1,0 +1,11 @@
+﻿	w veiled-life;
+	wn 1
+	plevel 0
+	k 1
+;;
+	w birth-secret;
+	wn 1
+	plevel 0
+	k 1
+;;
+

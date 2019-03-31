@@ -1,0 +1,9 @@
+	wa mc2-more-desperate;
+	fields_m 10 $1= $32; $2= $32; $3= $32; $4= $32; $5= $64; $6= $8; $7= $8; $8= $64; $9= $2; $10= $2;
+	fields 10 $1= $00011; $2= $00010; $3= $00010; $4= $00001; $5= $000010; $6= $010; $7= $000; $8= $000000; $9= $1; $10= $00000;
+	+field=010
+	+field=10|00011|00010|00010|00001|000010|010|0
+	cur_path ONTO-FILM-SCH2\arch_film\mc\mc_relationship\contrast\good_bandit_bad_bandit\mc2_more_desperate\
+	cur_level 7
+	i_cur 1
+;;

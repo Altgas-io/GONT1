@@ -1,0 +1,1 @@
+﻿Scene architecture: bifurcation of the MC state.

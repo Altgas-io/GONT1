@@ -1,0 +1,16 @@
++ ======================================================= +
+
++=conflict_3
++field0 NODE1_OPCODE=00011
++field1 NODE2_OPCODE=00010
++field2 NODE3_OPCODE=00010
++field3 NODE4_OPCODE=00001
++field4 NODE5_OPCODE=000010
++field5 NODE6_OPCODE=001
++formats Film
++resources ALU
++op1 name=result1
++summary conflict Node
++stage_3_0
+result1 = result1;
+

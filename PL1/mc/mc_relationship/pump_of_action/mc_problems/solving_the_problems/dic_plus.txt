@@ -1,0 +1,16 @@
+﻿	w love;
+	wn 1
+	plevel 0
+	k 1
+;;
+	w search;
+	wn 2
+	plevel 0
+	k 1
+;;
+	w life;
+	wn 3
+	plevel 0
+	k 1
+;;
+

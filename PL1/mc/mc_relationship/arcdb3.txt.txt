@@ -1,0 +1,16 @@
++ ======================================================= +
+
++=band_creation
++field0 NODE1_OPCODE=00001
++field1 NODE2_OPCODE=00011
++field2 NODE3_OPCODE=00011
++field3 NODE4_OPCODE=00000
++field4 NODE5_OPCODE=000000
++field5 NODE6_OPCODE=000
++formats Film
++resources ALU
++op1 name=result1
++summary band-creation Node
++stage_3_0
+result1 = result1;
+
